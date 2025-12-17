@@ -1,5 +1,4 @@
 # Fake Job Detector
-
 A simple web-based Fake Job Detector that helps users identify suspicious job postings 
 based on common scam indicators. Built using HTML, CSS, and JavaScript.
 
